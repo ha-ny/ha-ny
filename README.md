@@ -1,6 +1,4 @@
-<div align="center">
-<h3> "A sound mind in a sound body" </h3>
-<br>
+
 
 <h2> ⚔️ SKILL ⚔️</h2>
 <a href="https://en.wikipedia.org/wiki/SwiftUI"> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=plastic-square&logo=Swift&logoColor=white">
